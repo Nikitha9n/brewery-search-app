@@ -4,6 +4,10 @@ A simple web application built using HTML, CSS, JavaScript, and Axios that allow
 
 ---
 
+## Live Demo
+
+https://brewery-search-app.netlify.app/
+
 ## Features
 
 - Search breweries by country.
