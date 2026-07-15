@@ -1,0 +1,76 @@
+* {
+    background-color: #dd2d4a;
+    color: white;
+}
+.main{
+    display:flex;
+    margin-top: 2rem;
+    gap:3rem;
+    justify-content: center;
+
+}
+.projectbeer {
+    border: 1px solid black;
+    padding: 1rem;
+    width: 40%;
+    margin-top: 2rem;
+    height:auto;
+    background-color: white;
+    border-radius:1rem;
+   
+}
+.search_section {
+    border-bottom: 1px solid red;
+    padding:1rem;
+}
+.answer_section{
+   
+    padding: 1rem;
+}
+
+/* ------------------------------------ */
+.table {
+    margin-top: 2rem;
+}
+
+.search_section,
+.answer_section:hover {
+    background-color: white;
+    color: black;
+
+}
+
+.search_section h5,
+p {
+    background-color: white;
+    color: black;
+}
+
+.answer_section,
+.answer_section>ul,
+h3 {
+    background-color: white;
+    color: black;
+}
+
+/* ------------------------------------ */
+
+.inner_table,th{
+    border-top-left-radius: 1rem;;
+}
+.inner_table>td,th{
+    color:black;
+    background-color: white;
+}
+
+li{
+    color:black;
+    background-color:white;
+}
+button {
+    border: none;
+    background-color: black;
+    border-radius: 0.4rem;
+    padding: 0.3rem 1rem;
+    ;
+}
